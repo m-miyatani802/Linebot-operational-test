@@ -15,10 +15,10 @@ git
 
 
 
-#botのLINEアカウント↓↓
+# botのLINEアカウント↓↓
 
 ![画像URL](image/199apzbi.png)
 
-##動作画像
+## 動作画像
 
 ![画像](./image/Screenshot_20220323_144720_jp.naver.line.android.jpg)
