@@ -13,9 +13,12 @@ heroku
 
 git
 
+## ライブラリ
+Flask==2.0.3
+line-bot-sdk==2.1.0
 
 
-# botのLINEアカウント↓↓
+## botのLINEアカウント↓↓
 
 ![画像URL](image/199apzbi.png)
 
