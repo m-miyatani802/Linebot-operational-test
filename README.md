@@ -15,5 +15,4 @@ git
 
 ##動作確認
 
-![画像]./image/Screenshot_20220323_144720_jp.naver.line.android.jpg
-
+![画像](./image/Screenshot_20220323_144720_jp.naver.line.android.jpg)
