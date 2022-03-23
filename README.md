@@ -13,6 +13,6 @@ heroku
 
 git
 
-##動作確認
+##動作画像
 
 ![画像](./image/Screenshot_20220323_144720_jp.naver.line.android.jpg)
