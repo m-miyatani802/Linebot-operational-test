@@ -4,17 +4,21 @@
 ## 目的
 今後に向けて、LINE APIやherokuを理解する為に、試験的にLINE上で送られた文字をオウム返しするlinebotを作成する。
 
-## 環境
+## 開発環境
 Windows 11
 
 python 3.9.10
+
+## 動作環境
 
 heroku
 
 git
 
 ## ライブラリ
+
 Flask==2.0.3
+
 line-bot-sdk==2.1.0
 
 
