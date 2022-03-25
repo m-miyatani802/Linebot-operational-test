@@ -23,9 +23,21 @@ line-bot-sdk==2.1.0
 
 あとは、pip install に予め入っているライブラリ。
 
-pip freeze > requirement.txt 
+pip freeze > requirements.txt 
 
 ↑↑のコマンドでrequirement.txtを作成しています。
+
+## 作成にあたって詰まった箇所
+
+1. herokuにうまくデプロイできなかった。
+
+　→ローカルリポジトリにリモートと追加していなかった。
+
+2. デプロイ完了後、LINEbotに送信しても返信が来なかった。
+
+　→herokuのlogを確認すると、heroku[router]: at=error code=H10 desc="App crashed"
+ 
+ となっており、様々試行錯誤した結果、pip freeze > requirements.txtで出力したrequirements.txtをそのまま使えば正常に動作した。
 
 ## 使用方法(動作確認方法)
 
