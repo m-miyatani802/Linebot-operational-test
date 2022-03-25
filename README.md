@@ -37,7 +37,7 @@ pip freeze > requirements.txt
 
 　→herokuのlogを確認すると、heroku[router]: at=error code=H10 desc="App crashed"
  
- となっており、様々試行錯誤した結果、pip freeze > requirements.txtで出力したrequirements.txtをそのまま使えば正常に動作した。
+  となっており、様々試行錯誤した結果、pip freeze > requirements.txtで出力したrequirements.txtをそのまま使えば正常に動作した。
 
 ## 使用方法(動作確認方法)
 
