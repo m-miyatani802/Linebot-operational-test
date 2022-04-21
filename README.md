@@ -1,4 +1,4 @@
-# ①python portfolio
+# ②python portfolio
 
 ## -Pythonを使ったオウム返しLINEbot-
 
