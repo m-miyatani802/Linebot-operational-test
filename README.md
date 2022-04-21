@@ -1,4 +1,7 @@
-# Pythonを使ったオウム返しLINEbot
+# ①python portfolio
+
+## -Pythonを使ったオウム返しLINEbot-
+
 ## APP概要
 こちらで作成したLINEチャンネルアカウントに、文字を送信するとアカウントから打った文字を返信する。
 ## 目的
