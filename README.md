@@ -1,4 +1,4 @@
-# ②python Line_bot operational test
+# python Line_bot operational test
 
 ## -Pythonを使ったオウム返しLINEbot-
 
