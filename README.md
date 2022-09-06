@@ -1,4 +1,4 @@
-# ②python portfolio
+# ②python Line_bot operational test
 
 ## -Pythonを使ったオウム返しLINEbot-
 
